@@ -111,8 +111,9 @@ const Footer = () => {
 
             <p>📍 Nairobi, Mama Ngina Street</p>
             <p>🏢 Vidic House, Room 508</p>
-            <p>📞 +254 700 123 456</p>
-            <p>✉ info@bolddreamcreation.com</p>
+            <p>📞 +254 7 46 171 045 </p>
+            <p>📞 +254 1 16 113 551 </p>
+            <p>✉ info@boldreamcreation@mail.com</p>
           </div>
 
         </div>
@@ -123,8 +124,9 @@ const Footer = () => {
         <div className="row pb-3">
           <div className="col-md-6">
             <p>
-              © {new Date().getFullYear()} Bold Dream Creation.
+              © {new Date().getFullYear()} BoldDream Creation.
               All Rights Reserved.
+                              By Mark kariuki 0729339501.
             </p>
           </div>
 

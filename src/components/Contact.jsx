@@ -68,7 +68,8 @@ const Contact = () => {
                 <h5>📞 Phone</h5>
 
                 <p className="text-muted">
-                  +254 712 345 678
+            📞 +254 7 46 171 045 
+            📞 +254 1 16 113 551 
                 </p>
 
               </div>
@@ -78,7 +79,7 @@ const Contact = () => {
                 <h5>✉ Email</h5>
 
                 <p className="text-muted">
-                  info@bolddreamcreation.com
+                  info@boldreamcreation@gmail.com
                 </p>
 
               </div>
@@ -128,21 +129,21 @@ const Contact = () => {
               <div className="d-grid gap-3">
 
                 <a
-                  href="tel:+254712345678"
+                  href="tel:+254746171045"
                   className="btn btn-warning fw-bold"
                 >
                   📞 Call Us
                 </a>
 
                 <a
-                  href="mailto:info@bolddreamcreation.com"
+                  href="mailto:info@boldreamcreation@gmail.com"
                   className="btn btn-outline-primary fw-bold"
                 >
                   ✉ Send Email
                 </a>
 
                 <a
-                  href="https://wa.me/254712345678"
+                  href="https://wa.me/254746 171045"
                   className="btn btn-success fw-bold"
                 >
                   💬 Chat on WhatsApp

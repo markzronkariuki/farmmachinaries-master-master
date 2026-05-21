@@ -41,6 +41,9 @@ const Navbar = () => {
                             <a href="/contact" className="nav-link">
                                 Contact
                             </a>
+                            <a href="/aboutus" className="nav-link">
+                                AboutUs
+                            </a>
 
                         </div>
 
