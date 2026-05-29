@@ -57,7 +57,7 @@ const Contact = () => {
 
                 <p className="text-muted">
                   Mama Ngina Street,
-                  Vidic House Room 508,
+                  Vedic House Room 508,
                   Nairobi, Kenya
                 </p>
 

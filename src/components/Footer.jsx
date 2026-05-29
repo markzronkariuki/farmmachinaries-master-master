@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Company Section */}
           <div className="col-md-4 mb-3">
             <h2 className="fw-bold text-warning">
-              Bold Dream Creation
+              BoldDream Creation limited.
             </h2>
 
             <p className="text-light">
@@ -110,7 +110,7 @@ const Footer = () => {
             </h5>
 
             <p>📍 Nairobi, Mama Ngina Street</p>
-            <p>🏢 Vidic House, Room 508</p>
+            <p>🏢 Vedic House, Room 508</p>
             <p>📞 +254 7 46 171 045 </p>
             <p>📞 +254 1 16 113 551 </p>
             <p>✉ info@boldreamcreation@mail.com</p>
@@ -124,9 +124,8 @@ const Footer = () => {
         <div className="row pb-3">
           <div className="col-md-6">
             <p>
-              © {new Date().getFullYear()} BoldDream Creation.
+              © {new Date().getFullYear()} BoldDream Creation Limited.
               All Rights Reserved.
-                              By Mark kariuki 0729339501.
             </p>
           </div>
 

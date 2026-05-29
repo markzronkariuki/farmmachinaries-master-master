@@ -26,7 +26,7 @@ const AboutUs = () => {
               color: "#1a1a1a"
             }}
           >
-            Bold Dream Creation Limited
+            BoldDream Creation Limited
           </h1>
 
           <p
